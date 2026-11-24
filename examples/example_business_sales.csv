@@ -1,0 +1,101 @@
+﻿Transaction ID,Order Date,Customer,Product,Category,Quantity,Unit Price,Total,Payment Method,Order Status
+TXN-2377595,2015-01-18,Ivan Clark,Everyday Board Game,Toys & Games,2,80.12,160.24,Credit Card,Completed
+TXN-6991471,2015-03-21,Tomas Cruz,Classic Toaster,Home & Kitchen,1,306.81,306.81,Credit Card,Cancelled
+TXN-2116021,2015-09-26,Hannah Bautista,Advanced Raincoat,Clothing,2,220.59,441.18,Bank Transfer,Completed
+TXN-3768825,2015-10-18,Henry Hall,Modern Lip Balm,Health & Beauty,1,47.64,47.64,Bank Transfer,Pending
+TXN-1403025,2015-11-30,Olivia Muller,Compact Storage Set,Home & Kitchen,1,108.13,108.13,PayPal,Completed
+TXN-2399272,2016-02-06,Jonas Cruz,Wireless Jeans,Clothing,1,218.84,218.84,Credit Card,Pending
+TXN-1899617,2016-02-17,Dmitri Kowalski,Ultra Label Maker,Office Supplies,1,238.84,238.84,PayPal,Completed
+TXN-8882155,2016-04-03,Lily Novak,Vintage Lip Balm,Health & Beauty,2,25.82,51.64,Credit Card,Completed
+TXN-5795154,2016-06-24,Sophia Hall,Deluxe Sneakers,Clothing,1,192.49,192.49,Debit Card,Processing
+TXN-6473527,2016-07-10,Sofia Okafor,Smart Card Game,Toys & Games,1,58.49,58.49,Cash,Completed
+TXN-1603625,2016-07-11,Hannah Bautista,Pro Pen Set,Office Supplies,2,242.03,484.06,PayPal,Processing
+TXN-4225799,2016-08-02,Lily Chen,Ultra Blender,Home & Kitchen,2,250.05,500.10,PayPal,Completed
+TXN-1617972,2016-09-09,Hannah Bautista,Heavy-Duty Router,Electronics,4,575.15,2300.60,Credit Card,Pending
+TXN-8015139,2016-11-26,Hannah Bautista,Ergonomic Tent,Sports & Outdoors,2,85.00,170.00,Bank Transfer,Completed
+TXN-6869337,2016-12-12,Emma Roberts,Smart Notebook,Office Supplies,1,164.69,164.69,PayPal,Completed
+TXN-8281451,2017-03-11,Diego Larsen,Smart Hoodie,Clothing,2,76.94,153.88,Credit Card,Completed
+TXN-9174285,2017-03-12,Hannah Bautista,Compact Webcam,Electronics,2,744.06,1488.12,Credit Card,Shipped
+TXN-3159514,2017-04-03,Samuel Clark,Advanced Backpack,Sports & Outdoors,2,301.32,602.64,Credit Card,Completed
+TXN-4864257,2017-04-11,Olivia Muller,Everyday Charger,Electronics,2,224.18,448.36,PayPal,Shipped
+TXN-2742633,2017-04-27,Diego Larsen,Advanced Jump Rope,Sports & Outdoors,1,142.80,142.80,Cash,Completed
+TXN-6719859,2017-06-14,Dmitri Kowalski,Lightweight Pen Set,Office Supplies,1,40.24,40.24,Debit Card,Completed
+TXN-4791840,2017-07-25,Olivia Muller,Advanced Razor Set,Health & Beauty,1,34.54,34.54,Debit Card,Shipped
+TXN-5694342,2017-08-02,Leila Hill,Rugged Jump Rope,Sports & Outdoors,3,100.98,302.94,Cash,Cancelled
+TXN-8808458,2017-08-23,Lucas Lewis,Heavy-Duty Card Game,Toys & Games,1,152.00,152.00,Bank Transfer,Completed
+TXN-2597471,2017-08-24,Maria White,Heavy-Duty Face Serum,Health & Beauty,1,63.11,63.11,Credit Card,Completed
+TXN-7180983,2017-09-07,Ryan Moore,Ultra Vacuum Flask,Home & Kitchen,2,85.10,170.20,Credit Card,Completed
+TXN-5547761,2017-10-21,Sofia Okafor,Heavy-Duty Doll House,Toys & Games,3,7.67,23.01,Credit Card,Pending
+TXN-2074700,2017-11-26,Tomas Cruz,Deluxe Dinnerware Set,Home & Kitchen,1,125.42,125.42,Credit Card,Shipped
+TXN-6067758,2017-12-08,Hannah Bautista,Classic Storage Set,Home & Kitchen,1,158.11,158.11,Debit Card,Completed
+TXN-7268636,2017-12-15,Victor Kowalski,Essential Cycling Helmet,Sports & Outdoors,6,16.96,101.76,Mobile Wallet,Shipped
+TXN-1160451,2018-02-14,Diego Larsen,Rugged Shampoo,Health & Beauty,1,66.05,66.05,PayPal,Completed
+TXN-7949362,2018-03-10,Mei Rivera,Smart Lip Balm,Health & Beauty,2,180.41,360.82,Cash,Cancelled
+TXN-3396822,2018-05-19,Hannah Bautista,Vintage Monitor Stand,Electronics,2,392.85,785.70,Mobile Wallet,Cancelled
+TXN-6453992,2018-05-24,Lily Chen,Portable Plush Toy,Toys & Games,2,94.13,188.26,Debit Card,Completed
+TXN-4277109,2018-07-31,Emma Roberts,Compact Smart Plug,Electronics,2,123.49,246.98,PayPal,Shipped
+TXN-1219538,2018-09-18,Samuel Clark,Pro Science Kit,Toys & Games,2,160.06,320.12,Mobile Wallet,Completed
+TXN-7041209,2018-09-21,Sophia Hall,Classic RC Car,Toys & Games,1,80.15,80.15,Mobile Wallet,Processing
+TXN-4192855,2018-10-06,Lily Chen,Portable Blender,Home & Kitchen,1,277.91,277.91,Credit Card,Pending
+TXN-9878734,2018-10-13,Lily Novak,Rugged Stapler,Office Supplies,10,99.22,992.20,Credit Card,Shipped
+TXN-6237838,2018-12-05,Lucas Lewis,Portable Electric Toothbrush,Health & Beauty,1,32.65,32.65,Debit Card,Shipped
+TXN-2156464,2019-02-06,Lily Novak,Compact Blender,Home & Kitchen,3,88.01,264.03,Credit Card,Shipped
+TXN-6025475,2019-02-19,Mei Rivera,Everyday Jump Rope,Sports & Outdoors,3,292.73,878.19,Debit Card,Completed
+TXN-4018657,2019-05-06,Diego Larsen,Advanced Keyboard,Electronics,1,349.53,349.53,Debit Card,Pending
+TXN-3131318,2019-08-27,Jonas Cruz,Ultra Desk Pad,Office Supplies,1,126.63,126.63,Mobile Wallet,Refunded
+TXN-9230346,2019-09-21,Maria White,Heavy-Duty Headphones,Electronics,2,181.71,363.42,Debit Card,Refunded
+TXN-6518870,2019-11-21,Maria White,Ergonomic Power Bank,Electronics,2,661.55,1323.10,Bank Transfer,Processing
+TXN-3609952,2019-11-30,Ivan Clark,Modern Board Game,Toys & Games,1,65.40,65.40,Credit Card,Completed
+TXN-7018847,2020-03-03,Lucas Lewis,Advanced Headphones,Electronics,1,87.77,87.77,Mobile Wallet,Completed
+TXN-1716719,2020-03-16,Leila Hill,Eco Jump Rope,Sports & Outdoors,1,58.27,58.27,Mobile Wallet,Completed
+TXN-6548802,2020-03-19,Diego Larsen,Ultra Speaker,Electronics,1,660.61,660.61,Debit Card,Completed
+TXN-6294827,2020-05-28,Leila Hill,Premium Shampoo,Health & Beauty,6,226.08,1356.48,Debit Card,Shipped
+TXN-2257284,2020-07-13,Mei Rivera,Advanced Lip Balm,Health & Beauty,10,5.61,56.10,PayPal,Processing
+TXN-2109733,2020-07-21,Jonas Cruz,Digital Cap,Clothing,10,34.62,346.20,Gift Card,Processing
+TXN-6717908,2020-09-02,Ivan Clark,Modern Planner,Office Supplies,2,102.66,205.32,Credit Card,Processing
+TXN-6464200,2020-11-15,Jonas Cruz,Pro Jump Rope,Sports & Outdoors,1,166.85,166.85,Cash,Shipped
+TXN-5070059,2020-11-29,Maria White,Modern Power Bank,Electronics,1,40.78,40.78,Mobile Wallet,Completed
+TXN-7286006,2021-05-01,Lily Chen,Ergonomic Gloves,Clothing,1,121.06,121.06,Credit Card,Completed
+TXN-1329707,2021-05-24,Henry Hall,Premium Massage Gun,Health & Beauty,4,45.41,181.64,Credit Card,Completed
+TXN-6617619,2021-07-07,Sophia Hassan,Foldable Pen Set,Office Supplies,1,95.29,95.29,Gift Card,Completed
+TXN-6572150,2021-09-05,Sophia Hassan,Foldable Massage Gun,Health & Beauty,1,123.03,123.03,Mobile Wallet,Completed
+TXN-4839130,2021-09-30,Henry Hall,Compact File Cabinet,Office Supplies,1,116.90,116.90,Bank Transfer,Completed
+TXN-4894637,2021-10-21,Sofia Okafor,Ergonomic Massage Gun,Health & Beauty,3,145.95,437.85,Credit Card,Shipped
+TXN-3715792,2021-11-18,Sofia Okafor,Classic Notebook,Office Supplies,1,49.72,49.72,Debit Card,Refunded
+TXN-3456318,2021-12-29,Gwen Ramirez,Premium Planner,Office Supplies,1,51.60,51.60,Debit Card,Completed
+TXN-2213289,2022-01-16,Lily Chen,Everyday Smart Plug,Electronics,3,450.07,1350.21,Credit Card,Completed
+TXN-4848344,2022-04-27,Leila Hill,Classic Router,Electronics,2,86.52,173.04,PayPal,Completed
+TXN-5626111,2022-06-02,Jonas Cruz,Eco Jacket,Clothing,1,182.35,182.35,Credit Card,Cancelled
+TXN-3720056,2022-06-12,Leila Hill,Eco Kettle,Home & Kitchen,4,288.77,1155.08,Credit Card,Completed
+TXN-8721036,2022-09-02,Hannah Bautista,Essential Raincoat,Clothing,2,132.13,264.26,PayPal,Completed
+TXN-2025457,2022-09-13,Sophia Hassan,Classic Socks Pack,Clothing,3,11.47,34.41,Credit Card,Completed
+TXN-9539795,2022-10-17,Sophia Hassan,Everyday Camping Stove,Sports & Outdoors,2,400.88,801.76,Cash,Completed
+TXN-9696457,2022-10-20,Ryan Moore,Ergonomic Art Kit,Toys & Games,1,173.86,173.86,Mobile Wallet,Processing
+TXN-7657078,2022-11-22,Lucas Lewis,Heavy-Duty Cookware Set,Home & Kitchen,1,185.37,185.37,Mobile Wallet,Completed
+TXN-8530686,2022-11-28,Olivia Muller,Smart Blender,Home & Kitchen,1,185.91,185.91,Debit Card,Completed
+TXN-4429229,2022-12-12,Lily Novak,Foldable Jump Rope,Sports & Outdoors,2,81.07,162.14,Mobile Wallet,Processing
+TXN-3564985,2022-12-29,Dmitri Kowalski,Ergonomic Label Maker,Office Supplies,3,161.25,483.75,PayPal,Pending
+TXN-8231853,2023-03-15,Lily Chen,Classic Mouse,Electronics,1,445.66,445.66,Cash,Cancelled
+TXN-2084208,2023-07-18,Henry Hall,Portable Face Serum,Health & Beauty,1,9.73,9.73,Credit Card,Pending
+TXN-4857507,2023-08-11,Rohan Ivanov,Ultra Charger,Electronics,8,26.59,212.72,Debit Card,Completed
+TXN-6481658,2023-08-30,Emma Roberts,Ultra Shampoo,Health & Beauty,5,127.74,638.70,Debit Card,Shipped
+TXN-4690522,2023-10-02,Lucas Lewis,Digital Jacket,Clothing,2,132.33,264.66,Bank Transfer,Completed
+TXN-1306411,2024-01-03,Dmitri Kowalski,Portable Cutting Board,Home & Kitchen,4,132.22,528.88,Cash,Shipped
+TXN-4339755,2024-01-08,Henry Hall,Ergonomic Speaker,Electronics,6,627.37,3764.22,Debit Card,Completed
+TXN-2806599,2024-05-19,Dmitri Kowalski,Advanced Kettle,Home & Kitchen,1,128.95,128.95,Debit Card,Pending
+TXN-2162578,2024-06-13,Dmitri Kowalski,Modern Jeans,Clothing,3,70.96,212.88,PayPal,Completed
+TXN-1946194,2024-06-17,Tomas Adams,Portable Dumbbell Set,Sports & Outdoors,1,355.56,355.56,Credit Card,Shipped
+TXN-3844717,2024-06-18,Sophia Hassan,Ergonomic Raincoat,Clothing,2,265.89,531.78,Credit Card,Completed
+TXN-2364316,2024-07-19,Tomas Adams,Smart Sleeping Bag,Sports & Outdoors,3,319.56,958.68,Cash,Completed
+TXN-1332605,2024-08-28,Gwen Ramirez,Wireless Sneakers,Clothing,3,32.89,98.67,Bank Transfer,Refunded
+TXN-2496719,2024-08-28,Tomas Cruz,Advanced Raincoat,Clothing,1,267.47,267.47,Mobile Wallet,Completed
+TXN-6640432,2024-09-14,Diego Larsen,Foldable Pen Set,Office Supplies,1,42.55,42.55,Bank Transfer,Completed
+TXN-4908452,2024-11-11,Lily Novak,Eco T-Shirt,Clothing,3,87.42,262.26,Credit Card,Shipped
+TXN-8528777,2024-12-28,Lily Chen,Modern Jeans,Clothing,1,167.10,167.10,Debit Card,Pending
+TXN-6391698,2025-02-02,Maria White,Portable Drone,Toys & Games,1,11.34,11.34,Credit Card,Completed
+TXN-5331847,2025-05-14,Gwen Ramirez,Lightweight Headphones,Electronics,1,109.34,109.34,PayPal,Completed
+TXN-8699046,2025-07-17,Jonas Cruz,Premium Jacket,Clothing,1,48.47,48.47,Credit Card,Shipped
+TXN-3407780,2025-07-21,Lily Chen,Essential Paper Shredder,Office Supplies,4,233.67,934.68,Bank Transfer,Completed
+TXN-7685745,2025-10-08,Emma Roberts,Premium Monitor Stand,Electronics,1,446.61,446.61,Credit Card,Completed
+TXN-9577845,2025-11-21,Sofia Okafor,Compact Shampoo,Health & Beauty,1,126.42,126.42,Debit Card,Completed
+TXN-3070536,2025-11-25,Rohan Ivanov,Classic Sneakers,Clothing,2,22.22,44.44,Credit Card,Completed

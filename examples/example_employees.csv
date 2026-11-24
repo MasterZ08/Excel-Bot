@@ -1,0 +1,101 @@
+﻿Employee ID,Full Name,Department,Position,Salary,Hire Date,Status
+EMP-384722,Mei Rivera,Legal,Paralegal,66800.00,2019-08-31,Active
+EMP-307867,Victor Kowalski,Human Resources,Recruiter,68100.00,2017-05-20,On Leave
+EMP-471337,Emma Dela-Cruz,Engineering,QA Engineer,80100.00,2019-08-25,Active
+EMP-720883,Gwen Anderson,Human Resources,Recruiter,56500.00,2018-09-18,On Leave
+EMP-324813,Isabella Nelson,Human Resources,HR Coordinator,64900.00,2025-07-17,Active
+EMP-719509,Arjun Smith,Legal,Paralegal,65500.00,2025-02-02,Active
+EMP-126648,Lily Sanchez,Human Resources,Recruiter,56500.00,2024-06-13,Active
+EMP-621213,Priya Lewis,Finance,Financial Analyst,66800.00,2018-08-03,Active
+EMP-637902,Anika Taylor,Engineering,Engineering Manager,184100.00,2025-08-07,On Leave
+EMP-471068,Bianca Schmidt,Sales,Sales Manager,96300.00,2024-02-10,Terminated
+EMP-160211,Clara Moreau,Engineering,Engineering Manager,136500.00,2023-03-27,Active
+EMP-137688,Jonas Reyes,Human Resources,HR Manager,89500.00,2021-07-29,On Leave
+EMP-137361,James Lewis,Customer Support,Support Agent,47600.00,2023-06-08,Active
+EMP-550355,Anton Abara,Engineering,Senior Software Engineer,146500.00,2023-03-22,Active
+EMP-818394,Harper Chen,Sales,Account Executive,63700.00,2025-05-21,Active
+EMP-714950,Zoe Brown,Legal,Legal Counsel,114400.00,2024-02-01,Probation
+EMP-552549,Kofi Tanaka,Finance,Accountant,54700.00,2021-04-08,Active
+EMP-154516,Diego Petrov,Human Resources,HR Coordinator,52900.00,2025-04-21,Active
+EMP-647352,Amelia Robinson,Finance,Finance Manager,118200.00,2019-09-22,Active
+EMP-616036,Dmitri Cruz,Finance,Financial Analyst,108000.00,2020-10-22,Active
+EMP-810262,Anika Roberts,Operations,Logistics Coordinator,60600.00,2023-04-15,Active
+EMP-953071,Hannah Laurent,Marketing,Content Strategist,82300.00,2018-08-19,Active
+EMP-876598,Felix Harris,Sales,Sales Manager,101500.00,2023-01-03,Active
+EMP-127756,Leo Rossi,Finance,Accountant,68500.00,2017-08-18,Active
+EMP-311463,Rafael Williams,Marketing,Marketing Manager,136200.00,2021-10-04,Active
+EMP-582814,Lucia Harris,Marketing,Marketing Manager,99700.00,2016-05-29,Active
+EMP-614442,Harper Chen,Human Resources,Recruiter,48900.00,2018-11-24,Active
+EMP-238653,Hugo Rodriguez,Legal,Paralegal,65400.00,2020-09-09,Active
+EMP-430742,Joseph Hernandez,IT,Systems Administrator,70500.00,2022-07-11,Active
+EMP-726353,Mario Rossi,Human Resources,HR Manager,105100.00,2015-08-17,Active
+EMP-392067,Dmitri Hall,IT,Systems Administrator,92600.00,2018-11-15,Active
+EMP-719859,Miguel Singh,Operations,Operations Associate,50500.00,2022-02-28,Active
+EMP-134791,Gwen Kim,Engineering,DevOps Engineer,92000.00,2018-09-03,Active
+EMP-728569,Mei Santos,IT,Systems Administrator,92700.00,2020-07-27,Active
+EMP-986898,Ethan Mitchell,Human Resources,HR Coordinator,61200.00,2022-01-17,On Leave
+EMP-764778,Sven Jensen,Operations,Operations Associate,43200.00,2019-07-26,Active
+EMP-389781,Omar Johnson,Customer Support,Support Team Lead,72300.00,2023-12-30,Active
+EMP-925718,Lucas Allen,Engineering,Software Engineer,90100.00,2025-04-12,Probation
+EMP-512085,Ingrid Tanaka,Operations,Operations Associate,48100.00,2019-12-30,Active
+EMP-182092,Nora Davis,Human Resources,HR Coordinator,56900.00,2016-08-18,Active
+EMP-470008,Sofia Clark,Sales,Sales Manager,135600.00,2024-11-14,Active
+EMP-957453,Kofi Nilsson,Human Resources,Recruiter,78700.00,2023-01-07,Active
+EMP-109726,Rafael Tanaka,Human Resources,Recruiter,75400.00,2019-06-22,On Leave
+EMP-967563,Harper Hernandez,Marketing,Content Strategist,65100.00,2018-11-21,Active
+EMP-816475,Nora Patel,Human Resources,HR Coordinator,53100.00,2018-08-13,Probation
+EMP-896945,Priya Campbell,Operations,Operations Manager,108800.00,2015-07-01,Active
+EMP-525646,Sofia Hall,Marketing,Marketing Manager,135200.00,2020-10-28,Probation
+EMP-830679,Pavel Suzuki,Sales,Account Executive,96100.00,2019-10-16,Active
+EMP-525301,Lucia Nilsson,Sales,Sales Representative,55900.00,2021-03-03,Active
+EMP-610397,Emma Flores,Legal,Paralegal,70500.00,2023-10-08,On Leave
+EMP-412307,Lucas Jones,Operations,Operations Manager,119000.00,2019-08-24,Active
+EMP-112078,Andrew Baker,Human Resources,HR Coordinator,60800.00,2015-03-06,Active
+EMP-864407,Amelia Roberts,IT,IT Technician,63700.00,2023-08-03,Terminated
+EMP-787345,Valentina Martin,Engineering,Software Engineer,121300.00,2016-01-16,Active
+EMP-869521,Amelia Ramirez,Sales,Sales Representative,62900.00,2016-06-22,Active
+EMP-821564,Lily Ramirez,Sales,Sales Representative,47200.00,2015-07-23,Terminated
+EMP-368602,Ingrid Walker,Engineering,QA Engineer,63700.00,2020-07-12,Active
+EMP-350633,Joseph Thompson,Legal,Paralegal,64000.00,2018-07-11,Active
+EMP-775994,Ivan Williams,Finance,Accountant,82800.00,2019-04-08,Active
+EMP-318639,Joseph Lewis,Customer Support,Support Team Lead,51700.00,2017-08-27,Active
+EMP-134600,Omar Hassan,Finance,Accountant,62200.00,2017-02-12,Active
+EMP-887004,Mateo Bianchi,IT,Systems Administrator,69800.00,2024-09-23,Active
+EMP-875015,Chloe Martinez,Finance,Financial Analyst,90300.00,2015-08-17,Active
+EMP-266856,Yuki Dubois,Sales,Sales Representative,39200.00,2024-06-04,Active
+EMP-131716,Katya Martin,Legal,Legal Counsel,189300.00,2017-04-05,Probation
+EMP-278305,Mei Davis,Engineering,QA Engineer,75000.00,2024-07-14,Terminated
+EMP-341651,Ella Wright,Finance,Financial Analyst,103100.00,2017-06-06,Probation
+EMP-270816,Henry Smith,Legal,Paralegal,70800.00,2024-05-11,Terminated
+EMP-572849,Bianca Muller,Human Resources,HR Coordinator,46400.00,2021-09-10,Active
+EMP-921097,Olivia Martinez,Operations,Operations Manager,85900.00,2018-09-04,Terminated
+EMP-827979,Rohan Wang,IT,Systems Administrator,103800.00,2015-09-25,Terminated
+EMP-674409,Elena Ramirez,Operations,Operations Manager,103300.00,2015-02-14,Active
+EMP-985620,James Martinez,Sales,Sales Representative,50900.00,2023-03-20,Active
+EMP-128048,Miguel Mensah,Operations,Operations Associate,49400.00,2024-11-10,Active
+EMP-344947,Mateo Wang,Legal,Legal Counsel,164800.00,2023-11-08,Active
+EMP-681008,Abigail Smith,Engineering,Senior Software Engineer,121000.00,2024-07-09,Active
+EMP-343266,Marco Johnson,Legal,Paralegal,56800.00,2023-12-10,Active
+EMP-959479,Gwen Hassan,Marketing,Marketing Manager,135300.00,2023-07-22,Active
+EMP-502591,Rohan Park,Human Resources,HR Manager,87900.00,2015-06-27,Active
+EMP-130407,Carmen Petrov,Customer Support,Support Team Lead,73900.00,2023-01-13,Active
+EMP-389346,Ryan Dela-Cruz,Legal,Legal Counsel,113000.00,2017-05-26,On Leave
+EMP-832714,Ivan Rivera,Operations,Operations Associate,51700.00,2024-08-15,Active
+EMP-814345,Ella Williams,Engineering,DevOps Engineer,92700.00,2016-09-03,Probation
+EMP-310369,Felix White,Human Resources,HR Manager,80500.00,2018-08-03,Active
+EMP-986501,Miguel Campbell,Human Resources,HR Manager,120500.00,2022-03-02,Active
+EMP-344916,Bianca Hernandez,Legal,Paralegal,71600.00,2021-08-01,Active
+EMP-626111,Lily Mensah,Operations,Operations Manager,110500.00,2023-10-13,Active
+EMP-289372,Elijah Hernandez,Engineering,Software Engineer,87000.00,2021-07-18,Active
+EMP-156103,Liam Walker,Engineering,QA Engineer,89200.00,2025-11-26,Active
+EMP-667650,Noah Baker,Sales,Sales Representative,49100.00,2024-09-28,Active
+EMP-545776,Victor Larsen,Sales,Sales Manager,104000.00,2020-12-23,Active
+EMP-241946,Elijah Hassan,Customer Support,Support Agent,39300.00,2017-01-31,Active
+EMP-969645,Victor Ali,Engineering,Engineering Manager,159800.00,2016-04-17,Active
+EMP-174339,Liam Thomas,Finance,Accountant,58200.00,2024-04-19,Active
+EMP-195385,Emily Mensah,Finance,Financial Analyst,106700.00,2015-04-16,Active
+EMP-275136,Rohan Gonzalez,Marketing,Marketing Manager,90700.00,2022-05-05,Active
+EMP-229626,Evelyn Okafor,Finance,Accountant,90000.00,2017-12-20,Active
+EMP-580462,Felix Wilson,Engineering,Software Engineer,75600.00,2025-06-28,Active
+EMP-492383,Omar Baker,Sales,Sales Manager,94400.00,2025-12-15,Active
+EMP-692267,Kofi Robinson,Marketing,Marketing Manager,137900.00,2018-05-17,Active
